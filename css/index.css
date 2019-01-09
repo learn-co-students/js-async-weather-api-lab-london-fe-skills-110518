@@ -53,5 +53,9 @@ aside div {
   text-align: center;
   box-shadow: 3px 4px rgba(0,0,0,0.5);
   margin: 5px;
-  background-color: lightyellow
+  padding: 5px;
+  background-color: lightyellow;
+  font-size: 80%;
 }
+
+
